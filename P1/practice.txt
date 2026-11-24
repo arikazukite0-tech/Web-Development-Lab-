@@ -1,0 +1,16 @@
+Practical 1: Project Folder and Terminal Navigation
+
+Aim:
+To understand basic terminal commands and directory navigation.
+
+Commands:
+mkdir - Create a directory
+cd - Change directory
+pwd - Display current working directory
+ls - List files and directories
+touch - Create a new file
+cd .. - Navigate to parent directory
+
+Result:
+Successfully created a project folder and
+performed basic terminal navigation.
